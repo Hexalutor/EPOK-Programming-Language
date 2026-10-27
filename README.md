@@ -166,6 +166,15 @@ Internal Version:
 0.3.8.0
 ```
 
+Current issues:
+
+```text
+BIGFLOAT and BIGINT
+
+bigfloat precision appears capped around 28 digits.
+Possible Decimal context precision issue.
+```
+
 ## License
 
 GNU GPL v3.0
